@@ -1,4 +1,4 @@
-# postcss-component
+# postcss-js-styles
 
 > [PostCSS](https://github.com/postcss/postcss) plugin to transform css into javascript objects
 
