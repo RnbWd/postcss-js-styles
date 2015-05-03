@@ -16,7 +16,7 @@ WIP
 
 ```
 
-Will return `result.toJS()`:
+Calling `result.toJS()` returns:
 
 
 ```js
