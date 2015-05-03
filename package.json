@@ -1,7 +1,7 @@
 {
   "name": "postcss-js-styles",
   "version": "0.0.1",
-  "description": "PostCSS plugin Convert css into javascript objects which can be used  inside of React components",
+  "description": "PostCSS plugin to transform css into javascript objects",
   "keywords": [
     "postcss",
     "css",
@@ -16,7 +16,7 @@
     "url": "https://github.com/RnbWd/postcss-js-styles.git"
   },
   "dependencies": {
-    "postcss": "^4.1.5",
+    "postcss": "^4.1.5"
   },
   "devDependencies": {
     "mocha": "*",
