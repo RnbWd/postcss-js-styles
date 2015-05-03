@@ -21,7 +21,8 @@ Will return `result.toJS()`:
 
 ```js
 /* result.toJS() */
-
-{ main: { background: '#fff', width: '100%', height: '100%' },
-  button: { background: 'blue' } }
+{
+  main: { background: '#fff', width: '100%', height: '100%' },
+  button: { background: 'blue' }
+}
 ```
